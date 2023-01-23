@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 😄 I am X.
-- 🌱 I’m currently learning Computer Science.
+- 🌱 I’m currently learning Computer Science at KU.
+- 🌎 I live on planet Earth.
 
 <!--
 **Prariyavit/Prariyavit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
