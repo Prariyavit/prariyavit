@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 I am X.
-- 🌱 I’m currently learning Computer Science at KU.
+- 🌱 I’m studying Computer Science (1st year).
 - 🌎 I live on planet Earth.
 
 <!--
