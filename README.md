@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 😄 I am X.
-- 🌱 I’m studying Computer Science (1st year).
+- 🌱 I’m studying Computer Science (Sophomore).
 - 🌎 I live on planet Earth.
+- ⚡ Fun fact: 1 + 1 = 10
 
 <!--
 **Prariyavit/Prariyavit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
